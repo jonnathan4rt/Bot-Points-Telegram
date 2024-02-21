@@ -22,9 +22,9 @@ import java.util.HashMap;
 public class BotController extends MultiSessionTelegramBot {
 
     /** Nombre del bot */
-    public static final String NAME = "Points_MV_bot";
+    public static final String NAME = "NAME_BOT_HERE";
     /** Token de acceso del bot */
-    public static final String TOKEN = "6965391890:AAHBGawdChmMsBxpqFuyrE9FWPMHYRn106A";
+    public static final String TOKEN = "TOKEN_BOT_HERE";
 
     /** HashMap para almacenar puntos de los usuarios */
     private HashMap<String, Integer> pointsMap = new HashMap<>();
